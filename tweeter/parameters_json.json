@@ -1,0 +1,12 @@
+{
+  "nom_balise": "a",
+  "nom_tag": "ProfileHeaderCard-nameLink u-textInheritColor js-nav",
+  "list_posts_balise":"ol",
+  "list_posts_tag":"stream-items-id",
+  "publication_balise": "p",
+  "publication_tag": "TweetTextSize TweetTextSize--normal js-tweet-text tweet-text",
+  "nbr_like_balise": "span",
+  "nbr_like_tag": "ProfileTweet-actionCountForPresentation",
+  "commentaire":"ol",
+  "commentaire_tag": "stream-items"
+}

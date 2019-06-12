@@ -1,0 +1,13 @@
+{
+  "balise_companies":"div",
+  "tag_companies":"vce-loop-wrap",
+  "balise_company":"article",
+  "tag_company":"vce-post",
+  "balise_company_name":"h2",
+  "tag_company_name":"entry-title",
+  "company_url":"entry-title",
+  "balise_plus":"nav",
+  "tag_plus":"vce-pagination",
+  "balise_list_country":"ul",
+  "tag_list_country":"vce-pagination"
+}
